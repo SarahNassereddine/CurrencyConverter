@@ -1,11 +1,5 @@
 # 💱 Currency Converter & Community Chat (Android App)
 
-**Course:** Mobile Application Development (Android)  
-**Instructor:** Dr. Hassan Haidar  
-**Student:** Sarah Nassereddine  
-**ID:** 112872  
-
----
 
 ## 📌 Overview
 A dynamic, **Cloud-First** Android application that combines real-time financial utility with community interaction. The app provides live currency exchange rates, persistent user profile management, and a real-time global chat room.
