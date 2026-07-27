@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="profile"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_logout"
+        android:title="logout"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_converter"
+        android:icon="@drawable/ic_currency_exchange"
+        android:title="Converter"
+        app:showAsAction="always"/>
+</menu>

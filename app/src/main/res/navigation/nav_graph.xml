@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ProfileFragment"
+    >
+    <fragment
+        android:name="com.example.projectcurrrency.ViewProfileFragment"
+        android:id="@+id/ProfileFragment"
+        android:label="Profile">
+        <action android:id="@+id/action_profileToEditProfile"
+            app:destination="@id/editProfile"/>
+    </fragment>
+    <fragment
+        android:id="@+id/editProfile"
+        android:name="com.example.projectcurrrency.EditProfileFragment"
+        android:label="Edit Profile" />
+
+</navigation>
