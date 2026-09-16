@@ -10,9 +10,8 @@ Built around **Firebase** for cloud persistence, ensuring seamless data availabi
 
 ## 🚀 Main Features
 - 🔐 **Authentication:** Secure Sign-Up/Login using **Firebase Auth** with session persistence (Auto-login).
-  <img width="226" height="501" alt="image" src="https://github.com/user-attachments/assets/8ee8c9d5-b30a-407b-a2de-73c97218c448" />
+  <img width="623" height="285" alt="image" src="https://github.com/user-attachments/assets/ce842df1-296c-43e5-9212-d5e6d809db2c" />  <img width="226" height="501" alt="image" src="https://github.com/user-attachments/assets/8ee8c9d5-b30a-407b-a2de-73c97218c448" />
 
-  <img width="623" height="285" alt="image" src="https://github.com/user-attachments/assets/ce842df1-296c-43e5-9212-d5e6d809db2c" />
   
 - 💰 **Real-Time Currency Converter:** Live exchange rates via REST API integration (**Volley**) and dynamic JSON parsing.
   <img width="690" height="346" alt="image" src="https://github.com/user-attachments/assets/cf8041e0-d953-4610-9ba1-aee924a37b95" />
